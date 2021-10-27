@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\bin\Debug\TimerConsole.exe.config
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\bin\Debug\TimerConsole.exe
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\bin\Debug\TimerConsole.pdb
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\obj\Debug\TimerConsole.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\obj\Debug\TimerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\obj\Debug\TimerConsole.exe
+C:\Users\Andrey\source\repos\TimerConsole\TimerConsole\obj\Debug\TimerConsole.pdb
